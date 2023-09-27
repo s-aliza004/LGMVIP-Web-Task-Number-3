@@ -1,12 +1,12 @@
 import React from 'react';
-import Cal from './Components/Cal.js';
+import Cal from '../src/Components/Cal'
 
-function App() {
+const App = () => {
   return (
-    <>
-    <Cal/>
-    </>
-  );
+    <div>
+      <Cal/>
+    </div>
+  )
 }
 
-export default App;
+export default App
