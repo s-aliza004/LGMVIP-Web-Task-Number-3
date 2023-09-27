@@ -1,5 +1,5 @@
 import React from 'react';
-import Cal from '../src/Components/Cal'
+import Cal from './Components/Cal.js';
 
 const App = () => {
   return (
@@ -9,4 +9,4 @@ const App = () => {
   )
 }
 
-export default App
+export default App;
