@@ -1,5 +1,5 @@
 import React from 'react';
-import Cal from '"d:/LGMVIP-Web-Task-Number 3/calculator/src/components/cal';
+import Cal from './Components/Cal'
 
 const App = () => {
   return (
